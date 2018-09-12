@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "441105479261",
+    "firebase_url": "https://vitraan-7e9cb.firebaseio.com",
+    "project_id": "vitraan-7e9cb",
+    "storage_bucket": "vitraan-7e9cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441105479261:android:416f603aeb6c639f",
+        "android_client_info": {
+          "package_name": "tmm.anmol.vitraan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441105479261-g222jfoqu31lqnp6v85dtunal21ci76s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tmm.anmol.vitraan",
+            "certificate_hash": "649ae3cc7b8f4a3def4c697634f159f7a7a3762a"
+          }
+        },
+        {
+          "client_id": "441105479261-akvr4voc2m6qq6n7guvhacsmuga3j8ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRYeMHv0RRYkqAenZzSBa2YwNYteT-OUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441105479261-akvr4voc2m6qq6n7guvhacsmuga3j8ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
